@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "Truth Trick",
+  "description": "A boolean expression visualiser",
+  "icons": {
+    "60": "/truth-trick/assets/firefox_app_60x60.png",
+    "128": "/truth-trick/assets/firefox_app_128x128.png",
+    "512": "/truth-trick/assets/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "Jonathan J Watson",
+    "url": null
+  }
+}
